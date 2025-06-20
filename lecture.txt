@@ -1,0 +1,6 @@
+p5.js is a JavaScript library for creative coding.
+
+It helps you easily create interactive graphics, animatins, 
+and visual art on a web page.
+
+p5.js runs in the browser using HTML + JavaScript
