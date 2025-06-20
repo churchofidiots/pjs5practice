@@ -1,11 +1,11 @@
-function setup() //called once when the program starts
+function setup()
 {
     createCanvas(400,400);
     background(220);
 }
 
-function draw() //this runs in a loop to update teh display
+function draw()
 {
     point(150,250);
-    line(0,0,400,400); //x1 and yl
+    line(0,0,400,400);
 }
